@@ -1,27 +1,11 @@
-<div align="center">
+# Sduty+ (공부 인증 스터디앱)
+<!--<img src="https://user-images.githubusercontent.com/49026286/202903659-84b39720-96f9-4a7c-8ea8-80c8e299ad35.png" width="200" height="200"/>-->
 
-# Sduty+ 
-<img src="https://user-images.githubusercontent.com/49026286/202903659-84b39720-96f9-4a7c-8ea8-80c8e299ad35.png" width="200" height="200"/>
-
-**공부 인증 스터디앱**
-
-**[1. Explore Front Repository](./AOS)**
-
-**[2. 기획 배경](https://github.com/SdutyPlus/SdutyPlus?tab=readme-ov-file#%EA%B8%B0%ED%9A%8D-%EB%B0%B0%EA%B2%BD)**
-
-**[3. 기능](https://github.com/SdutyPlus/SdutyPlus?tab=readme-ov-file#%EA%B8%B0%EB%8A%A5)**
-
-</div>
-
-<br/>
-
-## 시스템 구조도
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/49026286/202906377-f1317e67-ebb5-4aef-a444-806d1eee1bab.png" width="720" height="480"/>
-
-</div>
-<br>
+**[Explore Front Repository](./AOS)** 
+| **[기획 배경](https://github.com/SdutyPlus/SdutyPlus?tab=readme-ov-file#%EA%B8%B0%ED%9A%8D-%EB%B0%B0%EA%B2%BD)** 
+| **[기능](https://github.com/SdutyPlus/SdutyPlus?tab=readme-ov-file#%EA%B8%B0%EB%8A%A5)**
+| **[시스템 구조도](https://github.com/SdutyPlus/SdutyPlus?tab=readme-ov-file#%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%A1%B0%EB%8F%84)**
+| **[Git Convention](https://github.com/SdutyPlus/SdutyPlus?tab=readme-ov-file#%EA%B7%9C%EC%B9%99)**
 
 ## 기술 스택
 
@@ -64,7 +48,7 @@
 </table>
 
 
-## 규칙
+## Git Convention
 
 🌐 Git Flow
 ```
