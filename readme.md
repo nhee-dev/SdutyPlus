@@ -7,8 +7,12 @@
 | **[시스템 구조도](https://github.com/SdutyPlus/SdutyPlus?tab=readme-ov-file#%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%A1%B0%EB%8F%84)**
 | **[Git Convention](https://github.com/SdutyPlus/SdutyPlus?tab=readme-ov-file#%EA%B7%9C%EC%B9%99)**
 
-## 기술 스택
+## 프로젝트 개요
+**진행 기간**
+ - 프로젝트 기간: 2022.10.10 ~ 2022.11.23 (7주)
+ - 유지보수 기간: 2023.02 ~ 2023.05 (약 3달)
 
+**기술 스택**
 <table>
 	<tr><th rowspan="1">🐬Front-end</th><td>Android, Kotlin, Jetpack, Figma, Clean Architecture</td></tr>
 	<tr><th rowspan="1">🍀Back-end</th><td>Spring Boot, Spring Security, JPA, Querydsl, JWT, MariaDB, Firebase, JUnit, JMeter</td></tr>
@@ -17,9 +21,7 @@
 
 </table>
 
-<br>
-
-## TEAM MEMBER
+**TEAM MEMBER (Android 4명, Backend 2명)**
 <table>
   <tr>
     <td align="center"><a href="https://github.com/nhee-dev"><img src="https://avatars.githubusercontent.com/nhee-dev" width=80px;" alt=""></td>
@@ -30,7 +32,7 @@
     <td align="center"><a href="https://github.com/pmi4202"><img src="https://avatars.githubusercontent.com/pmi4202" width=80px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/nhee-dev"><sub><b>김남희</b></td>
+    <td align="center"><a href="https://github.com/nhee-dev"><sub><b>김남희 (Me!)</b></td>
     <td align="center"><a href="https://github.com/forlivd"><sub><b>서재형</b></td>
     <td align="center"><a href="https://github.com/YunsHub"><sub><b>김정윤</b></td>
     <td align="center"><a href="https://github.com/toy9910"><sub><b>배한용</b></td>
